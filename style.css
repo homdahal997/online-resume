@@ -33,6 +33,7 @@ body{
 .left-image {
     width: 120px; 
     height: 120px;
+    border: 5px solid gray;
 }
 
 .right-text {
@@ -48,14 +49,14 @@ body{
     color: #4ca5d0;
 }
 .box2{
-    padding: 10px;
+    margin: auto 0px;
 }
 .contact-info {
     color: #646464;
 }
 
 .contact-info p {
-    margin: 0 0 10px;
+    margin: auto;
 }
 
 .contact-info strong {
@@ -64,11 +65,10 @@ body{
 }
 
 .contact-info a {
-    color: #0000EE;
+    color: green;
     text-decoration: none;
 }
 .box3{
-    padding: 10px;
     color: darkgray;
 }
 hr{
