@@ -6,20 +6,26 @@ body{
 #main_container {
     background-color: #1e1e1e; 
     margin-top: 3%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 15px;
 }
 .row{
     display: flex;
     flex-direction: row;
-    padding: 10px;
+    flex-wrap: wrap;
+    padding: 5px;
 }
 .column{
     display: flex;
     flex-direction: column;
+    padding: 5px;
+    flex: 1;
 }
 .box1{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .box1 h4{
     margin-top: 0;
@@ -32,8 +38,7 @@ body{
 .right-text {
     display: flex;
     flex-direction: column;
-    margin: 0px auto auto 5px;
-    
+    margin: 0px auto auto 10px;
     color: #ffffff;
 }
 .right-text h1{
@@ -45,7 +50,29 @@ body{
 .box2{
     padding: 10px;
 }
+.contact-info {
+    color: #646464;
+}
+
+.contact-info p {
+    margin: 0 0 10px;
+}
+
+.contact-info strong {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.contact-info a {
+    color: #0000EE;
+    text-decoration: none;
+}
 .box3{
     padding: 10px;
-    color: yellow;
+    color: darkgray;
+}
+hr{
+    border: none;
+    height: 1px;
+    background-color: #4a4848;
 }
