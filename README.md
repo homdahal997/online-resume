@@ -25,6 +25,6 @@ To use this online resume, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/homdahal997/online-resume.git`
 2. Open the `index.html` file in your web browser.
-3. Customize the content of the resume in the `index.html`and `style.css` files to showcase your own skills and experience.
+3. Customize the content of the resume in the `index.html`and `style.css` files to showcase your own skills and experience.You May need use your own profile picture and screenshot.
 
 Feel free to explore the project and make any modifications to suit your needs. Happy showcasing!
