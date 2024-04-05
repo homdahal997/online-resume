@@ -76,3 +76,64 @@ hr{
     height: 1px;
     background-color: #4a4848;
 }
+.box4{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+.box5{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.employment-education-section{
+    display: flex;
+    flex-direction: column;
+}
+
+.employment-history {
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+}
+
+.job {
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom: 20px; */
+}
+
+.job-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.job-date{
+    margin: auto;
+}
+
+.education-history {
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+}
+
+.education {
+    display: flex;
+    flex-direction: column;
+    /* margin-bottom: 20px; */
+}
+
+.education-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.education-date{
+    margin: auto;
+}
+.skill-lists{
+    font-size: 18px;
+    color: #ffffff;
+    
+}
