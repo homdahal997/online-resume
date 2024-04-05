@@ -11,6 +11,8 @@ online-resume
 ├── index.html
 ├── style.css
 └── README.md (This file)
+├── Screenshot.png
+├── profile_picture.png
 ```
 
 - index.html`: This file is the main HTML file for the online resume. It contains the structure and content of the webpage.
